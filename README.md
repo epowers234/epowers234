@@ -18,13 +18,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/emma-powers1/" />][linkedin]
+[<img align="left" | LinkedIn" width="22px" src="https://www.linkedin.com/in/emma-powers1/" />][linkedin]
 [Email](mailto:epowers3@nd.edu)
 
 
 <br />
 
 ---
-
-[website]: https://franjcf.github.io/
 [linkedin]: https://www.linkedin.com/in/francisco-jose-carrillo/
