@@ -18,7 +18,7 @@
 
 ### Connect with me:
 
-[<img align="left" | LinkedIn" width="22px" src="https://www.linkedin.com/in/emma-powers1/" />][linkedin]
+https://www.linkedin.com/in/emma-powers1/"
 [Email](mailto:epowers3@nd.edu)
 
 
