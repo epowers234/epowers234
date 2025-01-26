@@ -19,12 +19,12 @@
 ### 📕 Latest Projects
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Science Portfolio](https://github.com/Franjcf/Data-Science-Projects/blob/main/clogging_prediction_analysis/clogging_analysis.ipynb)
+- [Data Science Portfolio]([https://github.com/epowers234/Powers-Data-Science-Portfolio])
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
 
-[LinkedIn](https://www.linkedin.com/in/emma-powers1/)
+[Linkedin](https://www.linkedin.com/in/emma-powers1/)
 
 [Email](mailto:epowers3@nd.edu)
 
