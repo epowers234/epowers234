@@ -19,7 +19,7 @@
 ### 📕 Latest Projects
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Science Portfolio]([https://github.com/epowers234/Powers-Data-Science-Portfolio])
+- [Data Science Portfolio](https://github.com/epowers234/Powers-Data-Science-Portfolio)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
