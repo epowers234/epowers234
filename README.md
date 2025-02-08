@@ -27,9 +27,8 @@
 ### Connect with me:
 
 [Linkedin](https://www.linkedin.com/in/emma-powers1/)
-- 🪸  Please reach out if you have any questions!
-
 [Email](mailto:epowers3@nd.edu)
+- 🪸  Please reach out if you have any questions!
 
 
 <br />
