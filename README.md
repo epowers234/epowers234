@@ -1,13 +1,15 @@
 ### Hi there, I'm Emma - aka [epowers234] 👋
 
 ## I'm a Student, Researcher, and Basic Data Scientist!
-
 - ☘️  I am a senior studying Biochemistry and Data Science at the University of Notre Dame.
 - 🧬  I want to pursue my PhD in Cancer Biology after graduation.
-- 🧑‍🧑‍🧒‍🧒  I am currently learning about the basics of Data Science and the importance of remembering social structures and biases in data analysis.
-- 🥅  Goals for 2025: I want to be more confident in applying my coding abilities to individual projects. 
-- 🪸  Please reach out if you have any questions!
 - ⚡ Fun fact: I love playing volleyball and walking around lakes either at home in Minnesota or at ND.
+
+## Current projects and goals:
+- 🧑‍🧑‍🧒‍🧒  I am currently learning about the basics of Data Science and the importance of remembering social structures and biases in data analysis.
+- 🔨  Working on developing my portfolio.
+- 🥅  Goals for 2025: I want to be more confident in applying my coding abilities to individual projects.
+- ✅  Know how to navigate and create innovate projects in Python!
 
 ### Languages and Tools:
 
@@ -25,6 +27,7 @@
 ### Connect with me:
 
 [Linkedin](https://www.linkedin.com/in/emma-powers1/)
+- 🪸  Please reach out if you have any questions!
 
 [Email](mailto:epowers3@nd.edu)
 
