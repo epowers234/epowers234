@@ -21,7 +21,7 @@
 ### 📕 Latest Projects
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Science Portfolio](https://github.com/epowers234/Powers-Data-Science-Portfolio)
+- Check out my introductory portfolio that shows my progression using Streamlit and Tidy Data in different contexts, including supervised and unsupervised machine learning: [Data Science Portfolio](https://github.com/epowers234/Powers-Data-Science-Portfolio)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
