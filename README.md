@@ -1,6 +1,6 @@
 ### Hi there, I'm Emma - aka [epowers234] 👋
 
-## I'm a Student, Researcher, and Basic Data Scientist!
+## I'm a Student, Researcher, and Data Scientist!
 - ☘️  I am a graduate of the University of Notre Dame with a BSc in Biochemistry and a minor in Data Science.
 - 🧬  I am attending the University of Cambridge to pursue an MPhil in Oncology Research next year.
 - ⚡ Fun fact: I love playing volleyball and walking around lakes either at home in Minnesota or at ND.
